@@ -9,3 +9,6 @@ Rust web框架
 
 Z-library
 1、https://zlibrary.ga/
+
+下载软件
+1、 Gopeed ： https://github.com/GopeedLab/gopeed/blob/main/README_zh-CN.md
