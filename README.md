@@ -12,3 +12,7 @@ Z-library
 
 下载软件
 1、 Gopeed ： https://github.com/GopeedLab/gopeed/blob/main/README_zh-CN.md
+
+
+富文本编辑器
+https://zhuanlan.zhihu.com/p/460528428?utm_id=0
