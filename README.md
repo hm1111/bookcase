@@ -19,3 +19,4 @@ https://zhuanlan.zhihu.com/p/460528428?utm_id=0
 
 文献管理
 zotero： https://www.zotero.org/
+https://www.wolai.com/tduPkfFr6iPVkd8UpdmZLJ
