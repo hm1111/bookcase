@@ -20,3 +20,13 @@ https://zhuanlan.zhihu.com/p/460528428?utm_id=0
 文献管理
 zotero： https://www.zotero.org/
 https://www.wolai.com/tduPkfFr6iPVkd8UpdmZLJ
+
+字幕导入/导出
+剪映： https://jy.mzh.ren/index.html
+必剪： https://bcut.mzh.ren/
+
+b站资源：
+字幕制作 https://www.bilibili.com/video/BV1GY4y1U7oq/?spm_id_from=333.1007.tianma.2-1-4.click&vd_source=985320e38034420eff9f8f9bf4efeb8f
+
+开源博客系统
+https://github.com/halo-dev/halo
