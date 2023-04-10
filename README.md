@@ -30,3 +30,6 @@ b站资源：
 
 开源博客系统
 https://github.com/halo-dev/halo
+
+文字识别工具
+https://github.com/hiroi-sora/Umi-OCR
