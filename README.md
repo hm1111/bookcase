@@ -36,3 +36,13 @@ https://github.com/hiroi-sora/Umi-OCR
 
 文件同步
 https://freefilesync.org/
+
+Rust资源
+b站：
+    Rust 编程：完整的开发者指南(下) ：https://www.bilibili.com/video/BV16r4y1V7MF/?spm_id_from=333.337.search-card.all.click
+    Rust网络编程系列：https://www.bilibili.com/video/BV1b54y1X7my/?spm_id_from=333.337.search-card.all.click
+    Rust官方教程解读：https://www.bilibili.com/video/BV1M3411G7ma/?spm_id_from=333.337.search-card.all.click
+    [中英字幕] Rust 课程 ( Rust Tutorial )：https://www.bilibili.com/video/BV1Qy4y1m7ZL/?spm_id_from=333.337.search-card.all.click
+    Rust编程-入门：https://www.bilibili.com/video/BV1j841147bn/?spm_id_from=333.337.search-card.all.click
+    Rust Bevy 0.7 - 用Rust开发游戏(飞机大战)：https://www.bilibili.com/video/BV13r4y177uD/?spm_id_from=333.337.search-card.all.click
+    深入了解 rust 闭包 | Rust 培养提高计划：https://www.bilibili.com/video/BV1Zf4y1J7jq/?spm_id_from=333.337.search-card.all.click
