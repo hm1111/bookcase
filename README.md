@@ -46,6 +46,7 @@ b站：
     Rust编程-入门：https://www.bilibili.com/video/BV1j841147bn/?spm_id_from=333.337.search-card.all.click
     Rust Bevy 0.7 - 用Rust开发游戏(飞机大战)：https://www.bilibili.com/video/BV13r4y177uD/?spm_id_from=333.337.search-card.all.click
     深入了解 rust 闭包 | Rust 培养提高计划：https://www.bilibili.com/video/BV1Zf4y1J7jq/?spm_id_from=333.337.search-card.all.click
+    Rust Web - 使用 ntex 和 Yew 写一个 Web 项目：https://www.bilibili.com/video/BV1pY4y1Z7jR/?spm_id_from=333.999.0.0&vd_source=985320e38034420eff9f8f9bf4efeb8fRust Web - 使用 ntex 和 Yew 写一个 Web 项目
 
 AI绘画 Stable Diffusion
 https://www.52pojie.cn/thread-1772729-1-1.html
@@ -53,3 +54,9 @@ https://www.52pojie.cn/thread-1772729-1-1.html
 私有云
 https://support.qq.com/product/464670
 https://github.com/fs185085781/webos
+
+自动生成字幕
+https://github.com/wxbool/video-srt-windows
+
+免费域名/主机
+http://www.angid.eu.org/
