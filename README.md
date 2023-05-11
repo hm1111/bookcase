@@ -63,3 +63,6 @@ http://www.angid.eu.org/
 
 英语学习
 https://github.com/byoungd/English-level-up-tips
+
+系统软件管理工具wingetUI
+https://www.marticliment.com/wingetui/
