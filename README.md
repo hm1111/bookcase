@@ -66,3 +66,6 @@ https://github.com/byoungd/English-level-up-tips
 
 系统软件管理工具wingetUI
 https://www.marticliment.com/wingetui/
+
+ERP系统
+https://erpnext.com/
