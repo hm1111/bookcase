@@ -1,5 +1,5 @@
 You can use generics to reduce code **duplication**.<br>
--. **duplication** - n，重复，冗余。<br>
+- **duplication** - n，重复，冗余。<br>
 Dart generic types are **reified**, which means that they carry their type information around at runtime.<br>
 **reified** - adj，具体化的，reify。<br>
 When implementing a generic type, you might want to limit the types that can be provided as arguments, so that the argument must be a subtype of a **particular** type. You can do this using extends.<br>
