@@ -44,7 +44,7 @@ https://actix.rs
 (https://github.com/hiroi-sora/Umi-OCR)<br>
 
 ## 文件同步
-https://freefilesync.org/
+<https://freefilesync.org/>
 
 ## Rust资源
 ### b站
@@ -82,4 +82,4 @@ https://freefilesync.org/
 
 ## 博客、笔记、MD编辑器
 [b3log]
-(https://b3log.org/)<br>
+(https://b3log.org/)
