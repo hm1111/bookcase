@@ -36,3 +36,7 @@ Catching, or capturing, an exception stops the exception from **propagating** (u
 **propagating** - 传播<br>
 As the **preceding** code shows, you can use either on or catch or both.
 **preceding** - adj，前面的<br>
+a class body can be reused in multiple class **hierarchies**.
+**hierarchies** - 等级<br>
+Dart list literals are denoted by a comma separated list of expressions or values, enclosed in square brackets ([]).
+**denote** - v，表示，指示<br>
