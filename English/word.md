@@ -40,3 +40,5 @@ a class body can be reused in multiple class **hierarchies**.
 **hierarchies** - 等级<br>
 Dart list literals are denoted by a comma separated list of expressions or values, enclosed in square brackets ([]).
 **denote** - v，表示，指示<br>
+extensions can have names, which can be helpful if an API conflict **arises**.
+**arise** - v，发生<br>
